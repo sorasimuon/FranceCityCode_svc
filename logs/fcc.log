@@ -1,0 +1,192 @@
+2021-02-27 22:23:42,042 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:23:43,473 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:23:43,483 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:23:43,513 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:24:59,412 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:24:59,639 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:24:59] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+2021-02-27 22:25:34,106 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:25:35,510 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:25:35,519 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:25:35,534 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:25:37,252 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:25:37,494 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:25:37] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+2021-02-27 22:25:47,265 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:25:47,377 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:25:47] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+2021-02-27 22:32:56,263 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 22:32:56,410 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:32:58,033 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:32:58,043 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:32:58,060 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:36:33,523 src.app - INFO:methods = helloWord
+2021-02-27 22:37:53,561 src.app - INFO:methods = helloWord
+2021-02-27 22:41:31,321 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:41:31,455 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:41:31] "[35m[1mGET /city?insee=0100 HTTP/1.1[0m" 500 -
+2021-02-27 22:43:58,725 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 22:43:58,859 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:44:00,561 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:44:00,572 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:44:00,590 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:44:08,178 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:44:08,340 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:44:08] "[35m[1mGET /city?insee=0100 HTTP/1.1[0m" 500 -
+2021-02-27 22:44:28,690 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 22:44:28,806 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:44:30,550 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:44:30,560 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:44:30,575 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:44:35,706 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:44:37,288 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:44:37,299 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:44:37,314 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:44:38,375 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:44:38,538 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:44:38] "[35m[1mGET /city?insee=0100 HTTP/1.1[0m" 500 -
+2021-02-27 22:45:19,491 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 22:45:19,610 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:45:21,060 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:45:21,073 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:45:21,092 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:45:23,396 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:45:23,535 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:45:23] "[35m[1mGET /city?insee=0100 HTTP/1.1[0m" 500 -
+2021-02-27 22:45:36,526 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 22:45:36,692 werkzeug - INFO: * Restarting with stat
+2021-02-27 22:45:38,234 werkzeug - WARNING: * Debugger is active!
+2021-02-27 22:45:38,245 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 22:45:38,262 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 22:45:41,816 __main__ - INFO:methods = getCityInfo
+2021-02-27 22:45:41,930 __main__ - INFO:data not found
+2021-02-27 22:45:41,935 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 22:45:41] "[31m[1mGET /city?insee=0100 HTTP/1.1[0m" 400 -
+2021-02-27 22:48:01,447 src.app - INFO:methods = helloWord
+2021-02-27 22:48:17,682 src.app - INFO:methods = getCityInfo
+2021-02-27 22:48:17,787 src.app - ERROR:Parameter nam invalid
+2021-02-27 22:48:17,795 src.app - INFO:methods = helloWord
+2021-02-27 22:48:50,786 src.app - INFO:methods = getCityInfo
+2021-02-27 22:48:50,882 src.app - ERROR:Parameter nam invalid
+2021-02-27 22:48:50,889 src.app - INFO:methods = helloWord
+2021-02-27 22:50:03,416 src.app - INFO:methods = getCityInfo
+2021-02-27 22:50:03,519 src.app - ERROR:Parameter nam invalid
+2021-02-27 22:50:03,525 src.app - INFO:methods = helloWord
+2021-02-27 22:50:26,523 src.app - INFO:methods = getCityInfo
+2021-02-27 22:50:26,620 src.app - ERROR:Parameter nam invalid
+2021-02-27 22:50:26,626 src.app - INFO:methods = helloWord
+2021-02-27 22:50:53,246 src.app - INFO:methods = getCityInfo
+2021-02-27 22:50:53,362 src.app - ERROR:Parameter nam invalid
+2021-02-27 22:50:53,371 src.app - INFO:methods = helloWord
+2021-02-27 22:51:48,402 src.app - INFO:methods = getCityInfo
+2021-02-27 22:51:48,530 src.app - ERROR:Parameter nam invalid
+2021-02-27 22:51:48,536 src.app - INFO:methods = helloWord
+2021-02-27 23:18:44,095 src.app - INFO:methods = getCityInfo
+2021-02-27 23:18:44,194 src.app - ERROR:Parameter nam invalid
+2021-02-27 23:18:44,200 src.app - INFO:methods = getCityInfo
+2021-02-27 23:18:44,296 src.app - ERROR:Too many parameters
+2021-02-27 23:18:44,302 src.app - INFO:methods = helloWord
+2021-02-27 23:19:27,597 src.app - INFO:methods = getCityInfo
+2021-02-27 23:19:27,696 src.app - ERROR:Parameter nam invalid
+2021-02-27 23:19:27,702 src.app - INFO:methods = getCityInfo
+2021-02-27 23:19:27,803 src.app - ERROR:Too many parameters
+2021-02-27 23:19:27,808 src.app - INFO:methods = helloWord
+2021-02-27 23:21:47,151 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:21:47,292 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:21:48,820 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:21:48,830 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:21:48,846 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:23:48,047 src.app - INFO:methods = getCityInfo
+2021-02-27 23:23:48,159 src.app - ERROR:Parameter nam invalid
+2021-02-27 23:23:48,172 src.app - INFO:methods = getCityInfo
+2021-02-27 23:23:48,303 src.app - ERROR:Too many parameters
+2021-02-27 23:23:48,308 src.app - INFO:methods = getCityInfo
+2021-02-27 23:23:48,436 src.app - INFO:data not found
+2021-02-27 23:23:48,442 src.app - INFO:methods = helloWord
+2021-02-27 23:25:24,470 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:25:24,597 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:25:26,102 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:25:26,112 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:25:26,130 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:47:52,104 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:47:52,248 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:47:54,257 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:47:54,268 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:47:54,285 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:48:07,834 __main__ - INFO:methods = getCityInfo
+2021-02-27 23:48:08,109 __main__ - ERROR:Too many parameters
+2021-02-27 23:48:08,147 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 23:48:08] "[35m[1mGET /city?insee=0100&name=Serris HTTP/1.1[0m" 500 -
+2021-02-27 23:49:50,705 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:49:50,882 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:49:52,526 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:49:52,539 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:49:52,559 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:49:56,061 __main__ - INFO:methods = getCityInfo
+2021-02-27 23:49:56,225 __main__ - ERROR:Too many parameters
+2021-02-27 23:49:56,267 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 23:49:56] "[35m[1mGET /city?insee=0100&name=Serris HTTP/1.1[0m" 500 -
+2021-02-27 23:51:05,692 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:51:05,817 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:51:07,256 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:51:07,266 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:51:07,284 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:51:19,049 __main__ - INFO:methods = getCityInfo
+2021-02-27 23:51:19,211 __main__ - ERROR:Too many parameters
+2021-02-27 23:51:19,218 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 23:51:19] "[31m[1mGET /city?insee=0100&name=Serris HTTP/1.1[0m" 400 -
+2021-02-27 23:54:25,605 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:54:25,748 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:54:27,372 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:54:27,387 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:54:27,407 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:54:38,331 __main__ - INFO:methods = getCityInfo
+2021-02-27 23:54:38,529 __main__ - ERROR:Too many parameters
+2021-02-27 23:54:38,529 __main__ - ERROR:Too many parameters, only 1 argument is required, 2 are given
+2021-02-27 23:54:38,536 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 23:54:38] "[31m[1mGET /city?insee=0100&name=Serris HTTP/1.1[0m" 400 -
+2021-02-27 23:56:20,733 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-27 23:56:20,872 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:58:59,365 werkzeug - INFO: * Restarting with stat
+2021-02-27 23:59:00,749 werkzeug - WARNING: * Debugger is active!
+2021-02-27 23:59:00,760 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-27 23:59:00,777 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-27 23:59:05,041 __main__ - INFO:methods = getCityInfo
+2021-02-27 23:59:05,185 __main__ - ERROR:Too many parameters, only 1 argument is required, 2 are given
+2021-02-27 23:59:05,192 werkzeug - INFO:127.0.0.1 - - [27/Feb/2021 23:59:05] "[31m[1mGET /city?insee=0100&name=Serris HTTP/1.1[0m" 400 -
+2021-02-28 00:02:05,754 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-28 00:02:05,879 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:02:07,563 werkzeug - WARNING: * Debugger is active!
+2021-02-28 00:02:07,573 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-28 00:02:07,588 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-28 00:02:17,163 __main__ - INFO:methods = getCityInfo
+2021-02-28 00:02:17,327 __main__ - ERROR:Too many parameters, only 1 argument is required, 2 are given
+2021-02-28 00:02:17,333 werkzeug - INFO:127.0.0.1 - - [28/Feb/2021 00:02:17] "[31m[1mGET /city?insee=0100&nam=Serris HTTP/1.1[0m" 400 -
+2021-02-28 00:02:24,656 __main__ - INFO:methods = getCityInfo
+2021-02-28 00:02:24,862 __main__ - ERROR:Too many parameters, only 1 argument is required, 2 are given
+2021-02-28 00:02:24,867 werkzeug - INFO:127.0.0.1 - - [28/Feb/2021 00:02:24] "[31m[1mGET /city?insee=0100&nam=Serris HTTP/1.1[0m" 400 -
+2021-02-28 00:02:42,107 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:02:43,672 werkzeug - WARNING: * Debugger is active!
+2021-02-28 00:02:43,681 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-28 00:02:43,697 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-28 00:02:58,802 __main__ - INFO:methods = getCityInfo
+2021-02-28 00:02:59,008 __main__ - ERROR:Parameter nam invalid
+2021-02-28 00:02:59,015 werkzeug - INFO:127.0.0.1 - - [28/Feb/2021 00:02:59] "[31m[1mGET /city?nam=Serris HTTP/1.1[0m" 400 -
+2021-02-28 00:03:52,120 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-28 00:03:52,231 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:04:42,816 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:04:44,156 werkzeug - WARNING: * Debugger is active!
+2021-02-28 00:04:44,165 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-28 00:04:44,181 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-28 00:04:50,646 __main__ - INFO:methods = getCityInfo
+2021-02-28 00:04:50,986 __main__ - ERROR:Parameter 'nam' invalid
+2021-02-28 00:04:51,000 werkzeug - INFO:127.0.0.1 - - [28/Feb/2021 00:04:51] "[31m[1mGET /city?nam=Serris HTTP/1.1[0m" 400 -
+2021-02-28 00:05:16,883 __main__ - INFO:methods = getCityInfo
+2021-02-28 00:05:17,035 __main__ - ERROR:Data not found with name = FakeCity
+2021-02-28 00:05:17,044 werkzeug - INFO:127.0.0.1 - - [28/Feb/2021 00:05:17] "[31m[1mGET /city?name=FakeCity HTTP/1.1[0m" 400 -
+2021-02-28 00:05:43,750 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-28 00:05:43,885 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:05:45,403 werkzeug - WARNING: * Debugger is active!
+2021-02-28 00:05:45,413 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-28 00:05:45,429 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-28 00:06:22,128 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-28 00:06:22,259 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:06:23,760 werkzeug - WARNING: * Debugger is active!
+2021-02-28 00:06:23,770 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-28 00:06:23,785 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+2021-02-28 00:06:31,979 __main__ - INFO:methods -> getCityInfo
+2021-02-28 00:06:32,178 __main__ - ERROR:Data not found with name = FakeCity
+2021-02-28 00:06:32,184 werkzeug - INFO:127.0.0.1 - - [28/Feb/2021 00:06:32] "[31m[1mGET /city?name=FakeCity HTTP/1.1[0m" 400 -
+2021-02-28 00:06:42,224 werkzeug - INFO: * Detected change in 'd:\\Projects\\Python\\FranceCityCode_svc\\src\\app.py', reloading
+2021-02-28 00:06:42,336 werkzeug - INFO: * Restarting with stat
+2021-02-28 00:06:43,862 werkzeug - WARNING: * Debugger is active!
+2021-02-28 00:06:43,875 werkzeug - INFO: * Debugger PIN: 290-806-041
+2021-02-28 00:06:43,895 werkzeug - INFO: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
