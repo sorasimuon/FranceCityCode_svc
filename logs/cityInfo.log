@@ -333,3 +333,8 @@ INFO:werkzeug: * Debugger PIN: 290-806-041
 INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:23:53] "[37mPOST /scrap HTTP/1.1[0m" 200 -
 INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading

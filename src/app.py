@@ -1,12 +1,10 @@
 from flask import Flask, make_response, jsonify, request
 from flask_cors import CORS
-import json
 import pandas as pd
 import requests
 import datetime
 from io import BytesIO
 from functools import wraps
-import threading
 import logging
 
 
