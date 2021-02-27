@@ -1,0 +1,333 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:36:28] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:36:29] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:38:39] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:38:39] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:39:14] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:39:15] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:39:30] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:39:31] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:40:15] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:40:16] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:42:09] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:42:09] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:42:29] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:42:30] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:45:39] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:45:40] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:46:10] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:46:10] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:46:37] "[32mGET /city?insee=01009 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:46:38] "[37mGET /city/?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:47:14] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:51:41] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:52:16] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 17:53:40] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:04:56] "[37mPOST /scrap HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:09:42] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:09:43] "[35m[1mPOST /scrap HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:10:46] "[35m[1mPOST /scrap HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:12:44] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:12:56] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:13:14] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:13:19] "[35m[1mPOST /scrap HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:15:04] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:15:22] "[35m[1mPOST /scrap HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+ERROR:werkzeug:127.0.0.1 - - [27/Feb/2021 18:16:50] code 400, message Bad request syntax ('GET /city?name=Magny Le Hongre HTTP/1.1')
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:16:50] "[35m[1mGET /city?name=Magny Le Hongre HTTP/1.1[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:17:05] "[37mGET /city?name=Magny HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:17:20] "[37mGET /city?name='Magny HTTP/1.1[0m" 200 -
+ERROR:werkzeug:127.0.0.1 - - [27/Feb/2021 18:17:33] code 400, message Bad request syntax ('GET /city?name=Magny Le Hongre HTTP/1.1')
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:17:33] "[35m[1mGET /city?name=Magny Le Hongre HTTP/1.1[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+ERROR:werkzeug:127.0.0.1 - - [27/Feb/2021 18:18:53] code 400, message Bad request syntax ('GET /city?name=Magny Le Hongre HTTP/1.1')
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:18:53] "[35m[1mGET /city?name=Magny Le Hongre HTTP/1.1[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+ERROR:werkzeug:127.0.0.1 - - [27/Feb/2021 18:19:11] code 400, message Bad request syntax ('GET /city?name=Magny Le Hongre HTTP/1.1')
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:19:11] "[35m[1mGET /city?name=Magny Le Hongre HTTP/1.1[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:23:39] "[37mGET /city?name=Magny+Le+Hongre HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:23:53] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:25:00] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:25:35] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:26:40] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:30:22] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:30:54] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:31:13] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:31:42] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:32:04] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:32:48] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:34:50] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:35:50] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:37:39] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:39:42] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:40:39] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:40:59] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:42:26] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:42:58] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:43:20] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:43:41] "[35m[1mGET /city?insee=01009 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:44:18] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:46:44] "[37mGET /city?insee=01009 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:46:47] "[37mGET /city?name=Magny+Le+Hongre HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:47:37] "[35m[1mPOST /scrap HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 18:49:33] "[37mPOST /scrap HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:03:34] "[35m[1mGET /city?nam=Magny+Le+Hongre HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:04:54] "[35m[1mGET /city?nam=Magny+Le+Hongre HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+ERROR:root:Parameter nam invalid
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:05:23] "[31m[1mGET /city?nam=Magny+Le+Hongre HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:06:07] "[37mGET /city?name=Magny+Le+Hongre HTTP/1.1[0m" 200 -
+ERROR:root:Too many parameters
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:07:20] "[31m[1mGET /city?name=Magny+Le+Hongre&insee=09234 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:07:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:18:00] "[31m[1mPOST /scrap HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:19:19] "[31m[1mPOST /scrap HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:20:37] "[35m[1mPOST /scrap HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 19:21:39] "[31m[1mPOST /scrap HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'd:\\Projects\\Python\\dvf\\src\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-806-041
+INFO:werkzeug: * Running on http://127.0.0.1:9002/ (Press CTRL+C to quit)
