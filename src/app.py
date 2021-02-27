@@ -69,7 +69,7 @@ def scrapData():
         response = requests.get(URL, allow_redirects=True).content
         dataFrame = pd.read_csv(BytesIO(response), delimiter=';')
         dataFrame.columns=['insee','name','postalCode','ligne5','acheminement','gps']
-        dataFrame.to_csv('./static/cities3.csv', index=False, columns=['insee','name','postalCode','gps'])
+        dataFrame.to_csv('./static/cities.csv', index=False, columns=['insee','name','postalCode','gps'])
 
         return make_response('scraping cities data succeeded', 200)
 
